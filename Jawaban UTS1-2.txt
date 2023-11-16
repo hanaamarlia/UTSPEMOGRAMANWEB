@@ -1,0 +1,78 @@
+Jawaban UTS Pemrograman WEB
+1. Secara sederhana, "framework" pada pengembangan aplikasi bisa diibaratkan sebagai kerangka atau fondasi kerja yang telah dibuat sebelumnya untuk membantu pengembang dalam membuat aplikasi. 
+    Bayangkan jika Anda ingin membangun sebuah rumah. Sebagai pengembang, Anda bisa memilih untuk membuat setiap detailnya dari awal, mulai dari pondasi hingga atap. 
+    Tetapi, jika Anda menggunakan "framework" dalam pengembangan aplikasi, ini bisa diibaratkan sebagai memiliki kerangka kerja untuk rumah yang sudah ada.
+    Beberapa poin penting tentang framework:
+    1. Sudah Ada Struktur Dasar: 
+    Framework menyediakan struktur dasar atau kerangka kerja untuk aplikasi. Ini termasuk cara data disimpan, bagaimana halaman ditampilkan, dan cara berbagai komponen bekerja bersama.
+    2. Mempercepat Pengembangan:
+    Dengan menggunakan framework, pengembang dapat menghindari membuat segala sesuatu dari awal, sehingga dapat mempercepat proses pengembangan. Ini seperti memiliki rencana atau panduan yang sudah ada untuk membantu membangun aplikasi.
+    3. Standar Pengembangan:
+    Framework menyediakan standar dan praktik terbaik dalam pengembangan. Ini membantu pengembang untuk membuat kode yang lebih terstruktur dan mudah dipahami oleh orang lain.
+    4. Fokus pada Logika Aplikasi:
+    Dengan menggunakan framework, pengembang dapat lebih fokus pada logika aplikasi yang spesifik, daripada terjebak dengan detail-detail teknis yang umumnya sudah diurus oleh framework.
+    5. Reusabilitas Kode:
+    Framework menyediakan banyak fungsi dan modul yang dapat digunakan kembali dalam berbagai proyek. Ini artinya, Anda tidak perlu menulis ulang kode yang sama untuk setiap aplikasi yang Anda bangun.
+    Contoh populer dari framework pengembangan termasuk React dan Angular untuk pengembangan aplikasi web, Django untuk pengembangan web dengan Python, dan Laravel untuk pengembangan web dengan PHP.
+
+2. 1. Final Project Kelompok saya ,dengan tema klinik yang bernama "Klinik Gongju"
+   2. Tanpa informasi lebih lanjut tentang proyek atau konteks pekerjaan yang spesifik, berikut adalah contoh pembagian job desk untuk ketiga orang tersebut:
+      Nama anggota :    Cucu Hanapiyani (22416255201280)
+                        Amelia Putri    (224162552012)
+                        Hana Marlia Wilu Utami (224162552016)
+
+      Jobdesk :
+        (Cucu Hanapiyani)
+        Project Manager:
+        - Menetapkan tujuan dan batas waktu proyek.
+        - Mengelola anggaran dan sumber daya.
+        - Mengorganisir pertemuan tim dan memastikan jalannya proyek sesuai jadwal.
+        - Berkomunikasi dengan pemangku kepentingan dan membuat laporan kemajuan.
+        (Amelia Putri:)
+        Developer/Programmer
+        - Membangun dan mengimplementasikan fitur-fitur aplikasi atau sistem.
+        - Menulis dan menguji kode program.
+        - Berkolaborasi dengan tim untuk memastikan kualitas dan konsistensi kode.
+        - Melakukan debugging dan perbaikan bug.
+        (Hana Marlia Wilu Utami)
+        Tester/QA (Quality Assurance)
+        - Menyusun rencana pengujian dan mengidentifikasi skenario pengujian.
+        - Melaksanakan pengujian fungsional dan non-fungsional.
+        - Merekam dan melaporkan bug atau ketidaksesuaian.
+        - Berkomunikasi dengan pengembang untuk pemecahan masalah dan perbaikan.
+
+    3.  Setelah melakukan wawancara dengan narasumber klinik yang menjadi referensi, mungkin beberapa permasalahan muncul. 
+        Berikut adalah contoh permasalahan dan hipotesa solusi:
+        Permasalahan :
+        1. Ketidakefisienan Antrian Pasien
+            - Mungkin narasumber menyampaikan bahwa sistem antrian pasien di klinik saat ini kurang efisien dan seringkali menimbulkan kebingungan.
+        Hipotesa Solusi:
+            - Mungkin bisa mengimplementasikan suatu sistem antrian berbasis teknologi yang memungkinkan pasien untuk melakukan pendaftaran atau reservasi antrian secara online. 
+              Ini dapat membantu mengurangi waktu tunggu dan meningkatkan pengalaman pasien.
+
+        2. Keterbatasan dalam Manajemen Data Pasien:
+            - Narasumber mungkin mengeluhkan keterbatasan dalam mengelola dan mengakses data pasien dengan cepat.
+        Hipotesa Solusi:
+            - Mungkin bisa mempertimbangkan untuk mengadopsi suatu sistem manajemen rekam medis elektronik yang memungkinkan akses cepat dan aman terhadap data pasien. Ini bisa meningkatkan efisiensi dan mengurangi risiko kesalahan data.
+        
+        3. Kesulitan Komunikasi Internal:
+            - Narasumber mungkin menyampaikan bahwa ada kesulitan dalam komunikasi antara staf klinik, terutama dalam hal jadwal atau perubahan prosedur.
+        Hipotesa Solusi:
+            - Mungkin bisa mempertimbangkan penggunaan platform komunikasi internal atau aplikasi berbasis obrolan yang memudahkan pertukaran informasi di antara staf. Ini dapat membantu menyampaikan informasi dengan lebih cepat dan efektif.
+
+        4. Ketidakpastian dalam Penjadwalan Dokter:
+            - Mungkin narasumber merasa kesulitan dalam menentukan jadwal dokter yang efisien dan memenuhi kebutuhan pasien.
+        Hipotesa Solusi:
+            - Mungkin bisa menyusun suatu sistem manajemen jadwal yang terotomatisasi atau mengadopsi alat perencanaan yang dapat membantu menetapkan jadwal dokter dengan lebih cerdas, mempertimbangkan beban kerja dan preferensi dokter.
+            
+        5. Tidak Memiliki BPJS dan Asuransi:
+               - Narasumber menyatakan bahwa klinik belum terhubung dengan BPJS dan pasien masih menggunakan asuransi mandiri.
+        Hipotesa Solusi:
+               - Mungkin bisa mencari informasi dan mengajukan permohonan untuk mendaftarkan klinik ke BPJS agar pasien dapat memanfaatkan layanan BPJS. Selain itu, dapat menjalin kerjasama dengan perusahaan asuransi untuk memfasilitasi pasien yang menggunakan asuransi mandiri. 
+                 Dengan begitu, pasien dapat menikmati manfaat layanan kesehatan dengan biaya yang lebih terjangkau.
+        
+        6. Proses Pengelolaan Obat Masih Manual:
+                - Narasumber menyampaikan bahwa pengelolaan stok obat dan proses penanganan resep masih dilakukan secara manual.
+        Hipotesa Solusi:
+                    - Mungkin bisa mempertimbangkan untuk mengimplementasikan suatu sistem manajemen persediaan obat berbasis teknologi. Dengan adopsi perangkat lunak apotek, proses ini dapat diotomatisasi, termasuk pemantauan stok obat, penanganan resep, dan pelacakan tanggal kadaluarsa. 
+                      Ini dapat membantu mengurangi risiko kesalahan dan meningkatkan efisiensi dalam pengelolaan obat.
